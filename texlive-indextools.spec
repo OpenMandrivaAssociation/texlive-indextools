@@ -1,6 +1,6 @@
 Name:		texlive-indextools
-Version:	38931
-Release:	2
+Version:	68555
+Release:	1
 Summary:	Producing multiple indices
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/indextools
