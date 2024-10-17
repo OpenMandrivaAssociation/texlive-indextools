@@ -3,7 +3,7 @@ Version:	68555
 Release:	1
 Summary:	Producing multiple indices
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/indextools
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/indextools
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/indextools.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/indextools.doc.r%{version}.tar.xz
